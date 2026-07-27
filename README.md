@@ -108,7 +108,8 @@ Personalized Outfit Suggestions
 
 ## Home Page
 
-<img src="screenshots/homepage.png" width="90%">
+<img src="<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/027a4e4e-d349-4ff0-8e2d-1c6d0945ec48" />
+" width="90%">
 
 ---
 
@@ -120,19 +121,22 @@ Personalized Outfit Suggestions
 
 ## Outfit Recommendation
 
-<img src="screenshots/recommendation.png" width="90%">
+<img src="<img width="940" height="711" alt="image" src="https://github.com/user-attachments/assets/caa52170-8a37-4be1-a534-691e4860691b" />
+">
 
 ---
 
 ## Virtual Try-On
 
-<img src="screenshots/virtual_tryon.png" width="90%">
+<img src="<img width="940" height="458" alt="image" src="https://github.com/user-attachments/assets/6e4f97f0-087a-45ba-8dbb-825c4760ea5e" />
+">
 
 ---
 
 ## Fashion Analytics Dashboard
 
-<img src="screenshots/dashboard.png" width="90%">
+<img src="<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5c7684d1-ad56-4054-a8b7-d5bcaaafddf4" />
+">
 
 ---
 
